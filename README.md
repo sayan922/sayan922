@@ -1,3 +1,4 @@
+<p align="center"> <img src="./banner.png" /> </p>
 <h1 align="center">Hi 👋, I'm Sayan</h1>
 <h3 align="center">I kinda love Javascript</h3>
 
