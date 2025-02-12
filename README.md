@@ -56,6 +56,9 @@
   </a> 
 </p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayan922&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
 <!---
 sayanophile/sayanophile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
