@@ -1,6 +1,6 @@
 <p align="center"> <img src="./banner.png" /> </p>
 <h1 align="center">Hi 👋, I'm Sayan</h1>
-<h3 align="">I kinda love Javascript</h3><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </span>
+<h3 align="center">I kinda love Javascript</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
